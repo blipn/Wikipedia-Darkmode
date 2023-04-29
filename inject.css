@@ -14,10 +14,10 @@ img, .mw-logo-container {
   filter: invert(1); 
 }
 a {
-  color: #548ea7 !important;
+  color: #a04417 !important;
 }
 a.external {
-  filter: hue-rotate(160deg);
+  filter: hue-rotate(180deg);
 }
 .vector-menu-heading {
   filter: grayscale(1);
