@@ -1,1 +1,1 @@
-# Wikipedia Darkmode
+# wikipedia-darkmode

@@ -1,0 +1,20 @@
+{
+  "name": "wikipedia darkmode",
+  "action": {
+    "default_title": "wikipedia darkmode"
+  },
+  "manifest_version": 3,
+  "version": "0.1",
+  "description": "Darkmode for Wikipedia",
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://*.wikipedia.org/*"
+  ],
+  "background": {
+    "service_worker": "index.js"
+  }
+}
