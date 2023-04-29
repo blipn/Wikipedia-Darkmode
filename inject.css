@@ -1,0 +1,27 @@
+html {
+  background: black !important;
+}
+.vector-header-container, .vector-feature-zebra-design-disabled, body {
+  background-color: #ebebeb !important;
+}
+.mw-page-container, .bandeau-niveau-modere, .cdx-menu-item--highlighted {
+  background-color: #d7d7d7 !important;
+}
+html {
+  mix-blend-mode: difference !important;
+}
+img, .mw-logo-container { 
+  filter: invert(1); 
+}
+a {
+  color: #548ea7 !important;
+}
+a.external {
+  filter: hue-rotate(160deg);
+}
+.vector-menu-heading {
+  filter: grayscale(1);
+}
+button {
+  color: inherit !important;
+}
