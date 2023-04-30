@@ -10,7 +10,7 @@ html {
 html {
   mix-blend-mode: difference !important;
 }
-img, .mw-logo-container { 
+img, .mw-logo-container, .mwe-math-element { 
   filter: invert(1); 
 }
 a {
