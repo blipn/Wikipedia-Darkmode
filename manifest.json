@@ -4,7 +4,7 @@
     "default_title": "Wikipedia Darkmode"
   },
   "manifest_version": 3,
-  "version": "0.2",
+  "version": "0.3",
   "description": "Wikipedia Darkmode",
   "content_scripts": [{
     "matches": ["https://*.wikipedia.org/*"],

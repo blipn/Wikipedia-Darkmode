@@ -6,6 +6,10 @@ This chrome extension is a simple dark mode for Wikipedia
 
 ## Changelog
 
+### [0.3]
+
+- Fix Math elements color
+
 ### [0.2]
 
 - Use CSS injection
